@@ -1,0 +1,27 @@
+//  Dados los siguientes arreglos
+//  Encontrar el promedio de las notas del arreglo notasMatematica
+//  y encontrar el promedio del arreglo notasCiencias
+//  Hacer uso del arreglo promedio, mismo que tiene un tamaño de dos elementos
+//  para guardar los promedios.
+//  Presentar el siguiente reporte
+//  "Los promedios son:
+//  8.6
+//  9.6"
+1.  Inicio
+2.  (notasMatematica(3),i[0-n])
+3.  (notasCiencias(3),i[0-n])
+4.  (promedio(2),d[0-n])
+5.  indice, i[0-n]
+6.  suma, i[0-n] <-- 0
+7.  notasMatematica[0] <-- 7
+8.  notasMatematica[1] <-- 9
+9.  notasMatematica[2] <-- 10
+10. notasCiencias[0] <-- 10
+11. notasCiencias[1] <-- 9
+12. notasCiencias[2] <-- 10
+13. Para (indice<--0, indice<3, 1) entonces
+14.   suma <-- suma + notasMatematica[indice]
+15. Fin Para
+16. promedio[0] <-- suma/3  // 33 / 3 = 11
+17. suma <-- 0
+18. promedio[1] <-- suma/3
