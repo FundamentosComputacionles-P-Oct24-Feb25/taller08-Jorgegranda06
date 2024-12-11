@@ -1,5 +1,5 @@
 # taller8
-
+# Integrantes: Jorge Granda, Eduardo Peñarrieta, Cristhian Pijuana
 ## Diseño de la solución de problemas con pseudocódigo aplicando arreglos unidimensionales.
 
 A. Revisar los ejercicios y problemáticas de la carpeta ej1, ej2, ej3. Plantear las mejores o completar lo solicitado
